@@ -207,6 +207,3 @@ Tiếp tục   Hiển thị kết quả
 **Student Project - React Quiz Application**
 
 Dự án được xây dựng nhằm mục đích học tập và thực hành ReactJS.
-
-
->>>>>>> 6f1708053e2bcd4ae0cf1f3763345241acf0ac3c
